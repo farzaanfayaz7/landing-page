@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.main-one {
+    background-color: #1f2937;
+    color: #f9faf8;
+    height: 700px;
+}
+
+a {
+    text-decoration: none;
+    color: #f9faf8;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+    font-size: 24px;
+}
+
+.header {
+    display: flex;
+    padding: 16px;
+    justify-content: space-around;
+    align-items:center;
+}
+
+.logo {
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.text-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  
+}
+
+.herotext {
+    display: flex;
+flex-direction: column;
+    width: 600px;
+    height: 305px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: 900;
+    width: 450px;
+  
+}
+.secondary {
+    width: 450px;
+    font-size: 18px;
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    padding: 16px;
+    margin-top: 35px;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 25px;
+}
+
+.dog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    font-size: 20px;
+}
+
+.main-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    padding: 50px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 32px;
+    
+}
+
+.container1 {
+    font-size: 60px;
+    font-weight: 900;
+    color: #1f2937;
+    margin: 20px;
+}
+img  {
+    border-radius: 25px;
+}
+
+.main-three {
+    display: flex;
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-family: "light italic";
+}
+
+.writer {
+    margin-left: 1200px;
+    padding: 16px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.blue-button {
+    color: white;
+    background-color: #3882f6;
+    display: flex;
+    height: 200px;
+    border-radius: 25px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-four {
+    background-color: white;
+    padding: 100px 200px;
+}
+
+.bluetext1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.bluetext2 {
+    font-size: 20px;
+}
+
+.bluesignup {
+    border: 2px white solid;
+    border-radius: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 8px 16px;
+    justify-self: center;
+    margin: 0;
+}
+.main-five {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: #1f2937;
+    padding: 16px;
+}
